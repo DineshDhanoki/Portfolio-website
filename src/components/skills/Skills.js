@@ -4,21 +4,25 @@ import { ReactComponent as HtmlIcon } from "../../assets/icons/html.svg";
 import { ReactComponent as CssIcon } from "../../assets/icons/css.svg";
 import { ReactComponent as JSIcon } from "../../assets/icons/javascript.svg";
 import { ReactComponent as ReactIcon } from "../../assets/icons/react.svg";
-import { ReactComponent as JQueryIcon } from "../../assets/icons/jquery.svg";
-import { ReactComponent as ReduxIcon } from "../../assets/icons/redux.svg";
-import { ReactComponent as NodejsIcon } from "../../assets/icons/nodejs.svg";
 import { ReactComponent as TSIcon } from "../../assets/icons/typescript.svg";
 import { ReactComponent as PythonIcon } from "../../assets/icons/python.svg";
-import { ReactComponent as MDBIcon } from "../../assets/icons/mongodb.svg";
 import { ReactComponent as GQLIcon } from "../../assets/icons/graphql.svg";
-import { ReactComponent as WebpackIcon } from "../../assets/icons/webpack.svg";
+import { ReactComponent as FigmaIcon } from "../../assets/icons/figma.svg";
 
 const Skills = () => {
   const classes = skillsStyles();
 
   return (
     <section id="about" className={`${classes.skillsContainer} container`}>
-      <div className={`section-title`}>Skills</div>
+      <div className="section-title">{`About me & my Career`}</div>
+      <div className="section-description">
+        {`An honest Frontend Engineer with over 4 years of experience and a keen
+        eye for detail in UI UX. Worked on several projects to develop intuitive
+        User Interfaces for web applications with expertise in Javascript &
+        ReactJs. Aspiring to learn a range of backend technologies to be a
+        Full-stack Engineer while excelling at Frontend development.`}
+      </div>
+      <div className="section-sub-title">{`Skills I've used or practiced so far`}</div>
       <div className={classes.skillsList}>
         <div className={classes.skillsListItem}>
           <div className={classes.skillItemIcon}>
@@ -46,33 +50,9 @@ const Skills = () => {
         </div>
         <div className={classes.skillsListItem}>
           <div className={classes.skillItemIcon}>
-            <ReduxIcon />
-          </div>
-          <div className={classes.skillItemName}>Redux</div>
-        </div>
-        <div className={classes.skillsListItem}>
-          <div className={classes.skillItemIcon}>
-            <WebpackIcon />
-          </div>
-          <div className={classes.skillItemName}>Webpack</div>
-        </div>
-        <div className={classes.skillsListItem}>
-          <div className={classes.skillItemIcon}>
-            <JQueryIcon />
-          </div>
-          <div className={classes.skillItemName}>JQuery</div>
-        </div>
-        <div className={classes.skillsListItem}>
-          <div className={classes.skillItemIcon}>
             <TSIcon />
           </div>
           <div className={classes.skillItemName}>Typescript</div>
-        </div>
-        <div className={classes.skillsListItem}>
-          <div className={classes.skillItemIcon}>
-            <NodejsIcon />
-          </div>
-          <div className={classes.skillItemName}>NodeJs</div>
         </div>
         <div className={classes.skillsListItem}>
           <div className={classes.skillItemIcon}>
@@ -82,15 +62,15 @@ const Skills = () => {
         </div>
         <div className={classes.skillsListItem}>
           <div className={classes.skillItemIcon}>
-            <MDBIcon />
-          </div>
-          <div className={classes.skillItemName}>MongoDB</div>
-        </div>
-        <div className={classes.skillsListItem}>
-          <div className={classes.skillItemIcon}>
             <PythonIcon />
           </div>
           <div className={classes.skillItemName}>Python</div>
+        </div>
+        <div className={classes.skillsListItem}>
+          <div className={classes.skillItemIcon}>
+            <FigmaIcon />
+          </div>
+          <div className={classes.skillItemName}>Figma</div>
         </div>
       </div>
     </section>

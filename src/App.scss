@@ -75,6 +75,26 @@ body,
   padding-bottom: 3rem;
 }
 
+.section-description {
+  font-size: 1.4rem;
+  margin: auto;
+  padding-bottom: 4rem;
+  text-align: center;
+  width: 90%;
+}
+
+.section-sub-title {
+  font-size: 1.8rem;
+}
+
+.section-sub-title,
+.section-title {
+  color: #0f1630;
+  font-weight: 600;
+  padding-bottom: 3rem;
+  text-align: center;
+}
+
 @media screen and (max-width: 769px) {
   .hide-md {
     display: none !important;

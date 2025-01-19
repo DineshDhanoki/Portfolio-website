@@ -93,13 +93,13 @@ const bannerStyles = createUseStyles({
     // transform: "skew(-10deg, 0deg)",
 
     [`& path:nth-of-type(1)`]: {
-      strokeDasharray: "297px",
-      strokeDashoffset: "297px",
+      strokeDasharray: "2970px",
+      strokeDashoffset: "2970px",
       animation: "$name-animation 2s ease forwards",
     },
     [`& path:nth-of-type(2)`]: {
-      strokeDasharray: "351px",
-      strokeDashoffset: "351px",
+      strokeDasharray: "450px",
+      strokeDashoffset: "450px",
       animation: "$name-animation 1.8s ease forwards 0.2s",
     },
     [`& path:nth-of-type(3)`]: {

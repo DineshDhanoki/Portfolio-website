@@ -1,13 +1,13 @@
 import React from "react";
 import experienceStyles from "./Experience.styles";
-import { ReactComponent as CompanyIcon } from "../../assets/icons/company.svg";
+import { ReactComponent as CompanyIcon } from "../../assets/icons/qualcomm.svg";
 
 const Experience = () => {
   const classes = experienceStyles();
 
   return (
     <section className={`${classes.experienceContainer} container`}>
-      <div className={`section-title`}>Experience</div>
+      <div className={`section-title`}>Professional Experience so far</div>
 
       {/* Current: Qualcomm/Collabera */}
       <div className={classes.expBlock}>
@@ -50,7 +50,7 @@ const Experience = () => {
           </div>
         </div>
         <span className={classes.expBlockSeperator}>
-          <span className={classes.expYearTagRight}>Nov 2021</span>
+          <span className={classes.expYearTagRight}>July 2022</span>
         </span>
         <div className={classes.expBlockRight}>
           <div className="exp-block-content hide-sm">
@@ -70,7 +70,7 @@ const Experience = () => {
       <div className={classes.expBlock}>
         <div className={classes.expBlockLeft}></div>
         <span className={classes.expBlockSeperator}>
-          <span className={classes.expYearTagRight}>Nov 2021</span>
+          <span className={classes.expYearTagLeft}>Dec 2020</span>
         </span>
         <div className={classes.expBlockRight}>
           <div className="exp-block-content">
@@ -119,7 +119,7 @@ const Experience = () => {
       <div className={classes.expBlock}>
         <div className={classes.expBlockLeft}></div>
         <span className={classes.expBlockSeperator}>
-          <span className={classes.expYearTagRight}>Nov 2019</span>
+          <span className={classes.expYearTagLeft}>Nov 2018</span>
         </span>
         <div className={classes.expBlockRight}>
           <div className="exp-block-content">
@@ -168,7 +168,7 @@ const Experience = () => {
       <div className={classes.expBlock}>
         <div className={classes.expBlockLeft}></div>
         <span className={classes.expBlockSeperator}>
-          <span className={classes.expYearTagRight}>May 2016</span>
+          <span className={classes.expYearTagLeft}>May 2016</span>
         </span>
         <div className={classes.expBlockRight}>
           <div className="exp-block-content">
