@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { ReactComponent as Logo } from "../../assets/images/logo.svg";
 import headerStyles from "./Header.styles";
-import MyResume from "../../assets/files/vb.pdf";
+import MyResume from "../../assets/files/Dinesh Dhanoki.pdf";
 
 const Header = () => {
   const [menuState, setMenuState] = useState(0);
@@ -27,7 +27,7 @@ const Header = () => {
               </a>
             </li>
             <li>
-              <a href={MyResume} download="VatsalBhavsar-FrontendEngineer">
+              <a href={MyResume} download="Dinesh Dhanoki-Frontend Developer">
                 <button type="submit" className={classes.downloadResumeBtn}>
                   Download Resume
                 </button>
@@ -83,7 +83,7 @@ const Header = () => {
               </a>
             </li>
             <li>
-              <a href={MyResume} download="VatsalBhavsar-FrontendEngineer">
+              <a href={MyResume} download="Dinesh Dhanoki-Frontend Developer">
                 <button
                   type="submit"
                   className={`${classes.mobileMenuDownloadResume} ${classes.mobileMenuItem}`}

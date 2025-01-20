@@ -69,6 +69,7 @@ const bannerStyles = createUseStyles({
     display: "flex",
     alignItems: "center",
     justifyContent: "center",
+    transform: "translate(30px, -50px)",
     [`@media screen and (max-width: 769px)`]: {
       height: "50%",
       flex: "1",
