@@ -1,4 +1,5 @@
 import "./App.scss";
+import { SpeedInsights } from "@vercel/speed-insights/react";
 import Header from "./components/header/Header";
 import Banner from "./components/banner/Banner";
 import Skills from "./components/skills/Skills";
@@ -13,6 +14,7 @@ function App() {
       <Skills />
       <Experience />
       <Footer />
+      <SpeedInsights />
     </div>
   );
 }
