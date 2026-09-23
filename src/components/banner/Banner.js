@@ -3,7 +3,8 @@ import bannerStyles from "./Banner.styles";
 import Marquee from "react-fast-marquee";
 import { ReactComponent as BackgroundImage } from "../../assets/images/banner-bg.svg";
 import { renderToStaticMarkup } from "react-dom/server";
-import Colors from "../../utils/colorConstants";
+import { ReactComponent as FrontendDeveloperTitle } from "./frontend-developer-title.svg";
+import { ReactComponent as DineshDhanokiName } from "./dinesh-dhanoki-name.svg";
 require("@lottiefiles/lottie-player");
 
 const BG = encodeURIComponent(renderToStaticMarkup(<BackgroundImage />));
@@ -22,12 +23,8 @@ const Banner = () => {
         <div className={classes.bannerContentLeft}>
           <div className={classes.bannerTitle}>{`Hi there, my name is`}</div>
 
-          <svg
-            viewBox="0 0 824 117"
-            fill="none"
-            xmlns="http://www.w3.org/2000/svg"
-            className={classes.myName}
-          >
+          <DineshDhanokiName className={classes.myName} aria-label="Vatsal Bhavsar" role="img" />
+          {/*
             <path
               stroke={Colors.oxfordBlue}
               strokeWidth="3"
@@ -94,16 +91,12 @@ const Banner = () => {
               d="M798.856 93V40.968H817.096V93H798.856ZM807.976 35.208C804.648 35.208 801.96 34.28 799.912 32.424C797.864 30.568 796.84 28.264 796.84 25.512C796.84 22.76 797.864 20.456 799.912 18.6C801.96 16.744 804.648 15.816 807.976 15.816C811.304 15.816 813.992 16.712 816.04 18.504C818.088 20.232 819.112 22.472 819.112 25.224C819.112 28.104 818.088 30.504 816.04 32.424C814.056 34.28 811.368 35.208 807.976 35.208Z"
             />
             i
-          </svg>
+          </svg> */}
 
           <div className={classes.bannerTitle}>{`& I'm a`}</div>
           <div className={classes.titleSvg}>
-            <svg
-              viewBox="0 0 1021 117"
-              fill="none"
-              xmlns="http://www.w3.org/2000/svg"
-              className={classes.myTitle}
-            >
+            <FrontendDeveloperTitle className={classes.myTitle} aria-label="Frontend Developer" role="img" />
+            {/*
               <path
                 stroke={Colors.oxfordBlue}
                 strokeWidth="3"
@@ -205,7 +198,7 @@ const Banner = () => {
                 strokeWidth="3"
                 d="M433.088 93.768C428.224 93.768 423.84 92.68 419.936 90.504C416.032 88.264 412.928 85.16 410.624 81.192C408.384 77.224 407.264 72.552 407.264 67.176C407.264 61.736 408.384 57.032 410.624 53.064C412.928 49.096 416.032 46.024 419.936 43.848C423.84 41.672 428.224 40.584 433.088 40.584C437.44 40.584 441.248 41.544 444.512 43.464C447.776 45.384 450.304 48.296 452.096 52.2C453.888 56.104 454.784 61.096 454.784 67.176C454.784 73.192 453.92 78.184 452.192 82.152C450.464 86.056 447.968 88.968 444.704 90.888C441.504 92.808 437.632 93.768 433.088 93.768ZM435.68 81.48C438.112 81.48 440.32 80.904 442.304 79.752C444.288 78.6 445.856 76.968 447.008 74.856C448.224 72.68 448.832 70.12 448.832 67.176C448.832 64.168 448.224 61.608 447.008 59.496C445.856 57.384 444.288 55.752 442.304 54.6C440.32 53.448 438.112 52.872 435.68 52.872C433.184 52.872 430.944 53.448 428.96 54.6C426.976 55.752 425.376 57.384 424.16 59.496C423.008 61.608 422.432 64.168 422.432 67.176C422.432 70.12 423.008 72.68 424.16 74.856C425.376 76.968 426.976 78.6 428.96 79.752C430.944 80.904 433.184 81.48 435.68 81.48ZM449.216 93V82.44L449.504 67.08L448.544 51.816V21.768H463.52V93H449.216Z"
               />
-            </svg>
+            </svg> */}
           </div>
         </div>
         <div className={`${classes.bannerContentRight} slide-in-bck-right`}>

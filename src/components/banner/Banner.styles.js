@@ -91,11 +91,15 @@ const bannerStyles = createUseStyles({
 
   myName: {
     animation: "$name-fill-animation 1s ease forwards 1s",
+    display: "block",
+    width: "100%",
+    maxWidth: "742px",
+    height: "auto",
     // transform: "skew(-10deg, 0deg)",
 
     [`& path:nth-of-type(1)`]: {
-      strokeDasharray: "2970px",
-      strokeDashoffset: "2970px",
+      strokeDasharray: "297px",
+      strokeDashoffset: "297px",
       animation: "$name-animation 2s ease forwards",
     },
     [`& path:nth-of-type(2)`]: {
@@ -163,8 +167,14 @@ const bannerStyles = createUseStyles({
 
   myTitle: {
     animation: "$name-fill-animation 1s ease forwards 1s",
-    // transform: "skew(-10deg, 0deg)",
+    display: "block",
     width: "85%",
+    maxWidth: "941px",
+    height: "auto",
+    marginLeft: "auto",
+    [`@media screen and (max-width: 769px)`]: {
+      width: "100%",
+    },
 
     [`& path:nth-of-type(1)`]: {
       strokeDasharray: "500px",
