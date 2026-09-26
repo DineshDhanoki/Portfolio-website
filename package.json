@@ -11,6 +11,7 @@
     "@babel/plugin-transform-optional-chaining": "^7.14.5",
     "@babel/plugin-transform-private-methods": "^7.14.5",
     "@lottiefiles/lottie-player": "^1.5.7",
+    "@vercel/analytics": "^2.0.1",
     "@vercel/speed-insights": "^1.1.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
