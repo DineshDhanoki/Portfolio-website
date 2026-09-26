@@ -1,70 +1,144 @@
-# Getting Started with Create React App
+<div align="center">
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Dinesh Dhanoki
 
-## Available Scripts
+### AI Engineer | Production ML | RAG Systems | Data Intelligence
 
-In the project directory, you can run:
+**Building intelligent systems that move beyond prototypes and create measurable business value.**
 
-### `npm start`
+[![Live Portfolio](https://img.shields.io/badge/Live_Portfolio-Visit-0F1630?style=for-the-badge&logo=vercel&logoColor=white)](https://tinyurl.com/dinesh-dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dinesh-dhanoki)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dinesh.dhanoki@gmail.com)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+![AI Engineering](https://img.shields.io/badge/AI_Engineering-Production_Focused-151B36?style=flat-square)
+![Experience](https://img.shields.io/badge/Experience-5%2B_Years-235789?style=flat-square)
+![Python](https://img.shields.io/badge/Python-Advanced-3776AB?style=flat-square&logo=python&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-Systems-6C63FF?style=flat-square)
+![ML Pipelines](https://img.shields.io/badge/ML-Pipelines-00897B?style=flat-square)
+![Vercel](https://img.shields.io/badge/Deployed_on-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+</div>
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Engineer Profile
 
-### `npm run build`
+I am a **Data and AI professional with 5+ years of experience**, combining a strong analytics foundation with hands-on AI engineering expertise. I design and deliver **ML pipelines, retrieval-augmented generation systems, ETL workflows, model productionization, and decision intelligence solutions** that connect advanced technology to real business outcomes.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+My career has taken me through globally recognized organizations including **Claris International Inc. (an Apple company), Qualcomm, and Procter & Gamble**. That progression has given me an unusual combination of engineering depth, analytical judgment, operational awareness, and the ability to translate complex business problems into systems people can actually use.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+> I do not treat AI as a demo. I treat it as an engineering discipline: measurable, observable, maintainable, and built for production.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## What I Build
 
-### `npm run eject`
+| Capability | Engineering focus |
+| --- | --- |
+| **Applied AI systems** | Practical AI solutions aligned with business workflows, decision-making, and measurable outcomes |
+| **RAG architectures** | Retrieval pipelines, vector search, grounding, context orchestration, and LLM application workflows |
+| **Machine learning pipelines** | Data preparation, feature engineering, training, evaluation, experiment tracking, and deployment |
+| **Data engineering** | Reliable ETL workflows, orchestration, transformation, validation, and analytics-ready datasets |
+| **Model productionization** | API delivery, containerization, monitoring readiness, reproducibility, and lifecycle management |
+| **Marketing intelligence** | Customer, campaign, behavioral, and performance analysis that supports sharper business decisions |
+| **Automation** | API integrations and workflow automation that reduce repetitive work and improve operational speed |
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## Technical Arsenal
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Artificial Intelligence and Machine Learning
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+`Python` `TensorFlow` `PyTorch` `Scikit-learn` `XGBoost` `Pandas` `MLflow`
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+### Generative AI and Retrieval
 
-## Learn More
+`LangChain` `FAISS` `RAG` `Vector Search` `Prompt Workflows` `API Integrations`
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### Data Engineering and Analytics
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+`SQL` `Apache Airflow` `dbt` `ETL` `Power BI` `Tableau` `Adobe Analytics` `GA4`
 
-### Code Splitting
+### Production Engineering
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+`FastAPI` `Docker` `REST APIs` `Git` `GitHub Actions` `Workflow Automation`
 
-### Analyzing the Bundle Size
+### Product and Web Engineering
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+`JavaScript` `React` `TypeScript` `GraphQL` `HTML` `CSS`
 
-### Making a Progressive Web App
+## Career Trajectory
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+| Period | Organization | Position | Impact area |
+| --- | --- | --- | --- |
+| **Nov 2024 - Present** | **Claris International Inc. (an Apple company)** | AI Engineer | Applied AI, intelligent workflows, data systems, and production-focused engineering |
+| **Jul 2022 - Oct 2024** | **Collabera Technologies / Qualcomm India** | Senior Business Process Analyst | Analytics, process intelligence, automation, and data-backed decision support |
+| **Nov 2021 - Jul 2022** | **Procter & Gamble** | Supply Chain Implant, E-Commerce | Supply chain operations, analytical execution, and cross-functional delivery |
+| **Earlier career** | Nivea, Morchem, Lakme Lever, Tech Mahindra, Intelenet | Operations and customer-facing roles | Built the business fluency and execution discipline that now strengthen my AI engineering work |
 
-### Advanced Configuration
+This path matters. It means I understand both sides of transformation: the engineering required to build an intelligent system and the operational reality required for people to trust and adopt it.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+## This Portfolio
 
-### Deployment
+This repository is more than a profile page. It is a custom-built expression of my engineering journey, with careful attention to motion, responsiveness, performance, and visual identity.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+### Highlights
 
-### `npm run build` fails to minify
+- Custom SVG typography with coordinated outline and fill animations
+- Responsive layouts optimized for modern desktop, tablet, and mobile browsers
+- Animated professional experience timeline covering my complete career progression
+- Continuous skills marquee based on my current AI, data, analytics, and engineering stack
+- Downloadable resume and direct professional contact links
+- Vercel Web Analytics and Speed Insights integration
+- GitHub-connected Vercel deployments for a continuous delivery workflow
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### Application Stack
+
+```text
+React 18
+|- Component-driven portfolio interface
+|- Custom SVG animation system
+|- Responsive experience timeline
+|- Sass and React JSS styling
+|- Vercel Analytics
+|- Vercel Speed Insights
+`- Vercel production deployment
+```
+
+## Run Locally
+
+```bash
+git clone https://github.com/DineshDhanoki/Portfolio-website.git
+cd Portfolio-website
+npm install --legacy-peer-deps
+npm start
+```
+
+Create an optimized production build:
+
+```bash
+npm run build
+```
+
+The development server runs at [http://localhost:3000](http://localhost:3000).
+
+## Engineering Principles
+
+- **Business value first:** The model is only useful when it improves a real decision or workflow.
+- **Production over presentation:** Reliability, reproducibility, monitoring, and maintainability are part of the solution.
+- **Evidence over assumption:** Experiments, metrics, and observability guide technical choices.
+- **Clarity over complexity:** Strong systems make sophisticated capabilities understandable and usable.
+- **Continuous improvement:** Every deployment is a foundation for learning, measurement, and iteration.
+
+## Explore My Work
+
+- **Portfolio:** [tinyurl.com/dinesh-dev](https://tinyurl.com/dinesh-dev)
+- **Production deployment:** [portfolio-website-snowy-rho-91.vercel.app](https://portfolio-website-snowy-rho-91.vercel.app/)
+- **LinkedIn:** [linkedin.com/in/dinesh-dhanoki](https://www.linkedin.com/in/dinesh-dhanoki)
+- **Email:** [dinesh.dhanoki@gmail.com](mailto:dinesh.dhanoki@gmail.com)
+
+---
+
+<div align="center">
+
+### From data to intelligence. From prototype to production.
+
+**Dinesh Dhanoki | AI Engineer**
+
+</div>
